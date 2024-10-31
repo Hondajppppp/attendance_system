@@ -19,4 +19,4 @@ COPY . /bot
 EXPOSE 8000
 
 # 実行
-CMD ["python", "main.py"]  # 修正された部分
+CMD ["python", "main.py"]
